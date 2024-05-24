@@ -16,6 +16,7 @@ interface DashboardPageProps {
   };
 };
 
+
 const DashboardPage: React.FC<DashboardPageProps> = async ({ 
   params
 }) => {
